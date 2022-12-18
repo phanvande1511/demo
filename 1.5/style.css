@@ -1,0 +1,15 @@
+.navbar-css {
+	padding: 0 1%;
+	display: flex;
+}
+
+.hover-css:hover {
+	background-color: #0188A7;
+	border-radius: 25px;
+}
+
+img {
+	width: 200px;
+	align-items: right;
+	margin-left: 45%;
+}
